@@ -50,6 +50,3 @@ Travis (CI/CD)
 ## Frameworks:
 Ionic (Javascript) (Frontend)
 Node.js (Javascript) (Backend)
-
-
-## Final website: https://dmivvi7nblvz7.cloudfront.net
