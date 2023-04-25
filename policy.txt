@@ -8,7 +8,7 @@
         "s3:GetObject"
       ],
       "Effect": "Allow",
-      "Resource": "Your_Bucket_ARN/*",
+      "Resource": "aws:s3:::myfirstbucketversion1/*",
       "Principal": "*"
     }
   ]
